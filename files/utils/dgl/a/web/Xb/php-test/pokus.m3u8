@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:-1, tvg-id="Jednotka HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245146/categories/img/sizes/64x64/canvas/64x64/38245146.png" group-titles="Všeobecné", Jednotka HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=5104-tv-pc
+#EXTINF:-1, tvg-id="Dvojka HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245152/categories/img/sizes/64x64/canvas/64x64/38245152.png" group-titles="Všeobecné", Dvojka HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=5105-tv-pc
+#EXTINF:-1, tvg-id="Trojka HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/40563875/categories/img/sizes/64x64/canvas/64x64/40563875.png" group-titles="Všeobecné", Trojka HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6458-tv-pc
+#EXTINF:-1, tvg-id="Markiza HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245087/categories/img/sizes/64x64/canvas/64x64/38245087.png" group-titles="Všeobecné", Markiza HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=5106-tv-pc
+#EXTINF:-1, tvg-id="JOJ HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245233/categories/img/sizes/64x64/canvas/64x64/38245233.png" group-titles="Všeobecné", JOJ HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=5107-tv-pc
+#EXTINF:-1, tvg-id="Dajto HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245100/categories/img/sizes/64x64/canvas/64x64/38245100.png" group-titles="Filmy a seriály", Dajto HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=5039-tv-pc
+#EXTINF:-1, tvg-id="JOJ Plus HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245112/categories/img/sizes/64x64/canvas/64x64/38245112.png" group-titles="Filmy a seriály", JOJ Plus HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=5146-tv-pc
+#EXTINF:-1, tvg-id="WAU HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/12144840/categories/img/sizes/64x64/canvas/64x64/12144840.jpg" group-titles="Filmy a seriály", WAU HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=5194-tv-pc
+#EXTINF:-1, tvg-id="Doma HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245094/categories/img/sizes/64x64/canvas/64x64/38245094.png" group-titles="Filmy a seriály", Doma HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=5089-tv-pc
+#EXTINF:-1, tvg-id="TA3 HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/12144837/categories/img/sizes/64x64/canvas/64x64/12144837.jpg" group-titles="Spravodajstvo", TA3 HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=5108-tv-pc
+#EXTINF:-1, tvg-id="ČT 1 HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/20131014/categories/img/sizes/64x64/canvas/64x64/20131014.png" group-titles="Všeobecné", ČT 1 HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=5100-tv-pc
+#EXTINF:-1, tvg-id="ČT 2 HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/20131041/categories/img/sizes/64x64/canvas/64x64/20131041.png" group-titles="Všeobecné", ČT 2 HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=5101-tv-pc
+#EXTINF:-1, tvg-id="ČT 3 HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/53216956/categories/img/sizes/64x64/canvas/64x64/53216956.png" group-titles="Všeobecné", ČT 3 HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6460-tv-pc
+#EXTINF:-1, tvg-id="ČT Sport HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19804128/categories/img/sizes/64x64/canvas/64x64/19804128.png" group-titles="Športové", ČT Sport HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6434-tv-pc
+#EXTINF:-1, tvg-id="ČT 24 HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776563/categories/img/sizes/64x64/canvas/64x64/19776563.jpg" group-titles="Spravodajstvo", ČT 24 HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6146-tv-pc
+#EXTINF:-1, tvg-id="ČT Art Dětem HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/20144146/categories/img/sizes/64x64/canvas/64x64/20144146.png" group-titles="Detské", ČT Art Dětem HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6433-tv-pc
+#EXTINF:-1, tvg-id="Prima COOL HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776564/categories/img/sizes/64x64/canvas/64x64/19776564.jpg" group-titles="Filmy a seriály", Prima COOL HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6017-tv-pc
+#EXTINF:-1, tvg-id="Prima ZOOM HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776565/categories/img/sizes/64x64/canvas/64x64/19776565.jpg" group-titles="Dokumentárne", Prima ZOOM HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6157-tv-pc
+#EXTINF:-1, tvg-id="Prima MAX HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776566/categories/img/sizes/64x64/canvas/64x64/19776566.jpg" group-titles="Filmy a seriály", Prima MAX HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6400-tv-pc
+#EXTINF:-1, tvg-id="Prima Krimi HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19804127/categories/img/sizes/64x64/canvas/64x64/19804127.png" group-titles="Filmy a seriály", Prima Krimi HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6435-tv-pc
+#EXTINF:-1, tvg-id="Prima Love HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776567/categories/img/sizes/64x64/canvas/64x64/19776567.jpg" group-titles="Filmy a seriály", Prima Love HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6018-tv-pc
+#EXTINF:-1, tvg-id="Prima Plus HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776568/categories/img/sizes/64x64/canvas/64x64/19776568.png" group-titles="Filmy a seriály", Prima Plus HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6016-tv-pc
+#EXTINF:-1, tvg-id="Nova" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/nova.jpg" group-titles="Všeobecné", Nova
+https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u8
+#EXTINF:-1, tvg-id="Nova 2" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/nova2.jpg" group-titles="Filmy a seriály", Nova 2
+https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist.m3u8
+#EXTINF:-1, tvg-id="Nova Cinema" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/nova-cinema.jpg" group-titles="Filmy a seriály", Nova Cinema
+https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8
+#EXTINF:-1, tvg-id="Nova Action" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/nova-action.png" group-titles="Filmy a seriály", Nova Action
+http://92.62.234.223/102/mystream.m3u8
+#EXTINF:-1, tvg-id="Nova Gold" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/nova-gold.png" group-titles="Filmy a seriály", Nova Gold
+https://nova-live.ssl.cdn.cra.cz/channels/nova_gold_avod/playlist.m3u8
+#EXTINF:-1, tvg-id="Nova International" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245248/categories/img/sizes/64x64/canvas/64x64/38245248.png" group-titles="Filmy a seriály", Nova International
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6196-tv-pc
+#EXTINF:-1, tvg-id="AMC HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776580/categories/img/sizes/64x64/canvas/64x64/19776580.png" group-titles="Filmy a seriály", AMC HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6107-tv-pc
+#EXTINF:-1, tvg-id="FilmBox" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245203/categories/img/sizes/64x64/canvas/64x64/38245203.png" group-titles="Filmy a seriály", FilmBox
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6110-tv-pc
+#EXTINF:-1, tvg-id="Discovery Channel" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245118/categories/img/sizes/64x64/canvas/64x64/38245118.png" group-titles="Dokumentárne", Discovery Channel
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6179-tv-pc
+#EXTINF:-1, tvg-id="IDX" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776571/categories/img/sizes/64x64/canvas/64x64/19776571.jpg" group-titles="Dokumentárne", IDX
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6180-tv-pc
+#EXTINF:-1, tvg-id="TLC" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/20422542/categories/img/sizes/64x64/canvas/64x64/20422542.png" group-titles="Dokumentárne", TLC
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6181-tv-pc
+#EXTINF:-1, tvg-id="TV Barrandov HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245250/categories/img/sizes/64x64/canvas/64x64/38245250.png" group-titles="Všeobecné", TV Barrandov HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6020-tv-pc
+#EXTINF:-1, tvg-id="Kino Barrandov HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776574/categories/img/sizes/64x64/canvas/64x64/19776574.jpg" group-titles="Filmy a seriály", Kino Barrandov HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6401-tv-pc
+#EXTINF:-1, tvg-id="Barrandov Krimi HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/20496187/categories/img/sizes/64x64/canvas/64x64/20496187.png" group-titles="Filmy a seriály", Barrandov Krimi HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6402-tv-pc
+#EXTINF:-1, tvg-id="Eurosport HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245237/categories/img/sizes/64x64/canvas/64x64/38245237.png" group-titles="Športové", Eurosport HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6069-tv-pc
+#EXTINF:-1, tvg-id="Eurosport 2 HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245242/categories/img/sizes/64x64/canvas/64x64/38245242.png" group-titles="Športové", Eurosport 2 HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6070-tv-pc
+#EXTINF:-1, tvg-id="Arena Sport 1 HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/20132178/categories/img/sizes/64x64/canvas/64x64/20132178.png" group-titles="Športové", Arena Sport 1 HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6077-tv-pc
+#EXTINF:-1, tvg-id="Arena Sport 2" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/20132184/categories/img/sizes/64x64/canvas/64x64/20132184.png" group-titles="Športové", Arena Sport 2
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6164-tv-pc
+#EXTINF:-1, tvg-id="Nova Sport 1 HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776589/categories/img/sizes/64x64/canvas/64x64/19776589.jpg" group-titles="Športové", Nova Sport 1 HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6073-tv-pc
+#EXTINF:-1, tvg-id="Nova Sport 2 HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776590/categories/img/sizes/64x64/canvas/64x64/19776590.jpg" group-titles="Športové", Nova Sport 2 HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6427-tv-pc
+#EXTINF:-1, tvg-id="Sport 1 HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245171/categories/img/sizes/64x64/canvas/64x64/38245171.png" group-titles="Športové", Sport 1 HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6074-tv-pc
+#EXTINF:-1, tvg-id="Fishing & Hunting" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776594/categories/img/sizes/64x64/canvas/64x64/19776594.jpg" group-titles="Hobby", Fishing & Hunting
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6027-tv-pc
+#EXTINF:-1, tvg-id="Body in Balance" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245181/categories/img/sizes/64x64/canvas/64x64/38245181.png" group-titles="Hobby", Body in Balance
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6060-tv-pc
+#EXTINF:-1, tvg-id="Óčko HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/20401983/categories/img/sizes/64x64/canvas/64x64/20401983.png" group-titles="Hudobné", Óčko HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6028-tv-pc
+#EXTINF:-1, tvg-id="Óčko Gold" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/ocko-gold.jpg" group-titles="Hudobné", Óčko Gold
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_lq.m3u8
+#EXTINF:-1, tvg-id="Óčko Expres" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/ocko-expres.png" group-titles="Hudobné", Óčko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
+#EXTINF:-1, tvg-id="Retro Tv" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/retro.png" group-titles="Hudobné", Retro Tv
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1, tvg-id="Disney Channel" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245191/categories/img/sizes/64x64/canvas/64x64/38245191.png" group-titles="Pre deti", Disney Channel
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6081-tv-pc
+#EXTINF:-1, tvg-id="Mňam TV HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776608/categories/img/sizes/64x64/canvas/64x64/19776608.png" group-titles="Hobby", Mňam TV HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6231-tv-pc
+#EXTINF:-1, tvg-id="ZDF" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776611/categories/img/sizes/64x64/canvas/64x64/19776611.jpg" group-titles="Zahraničné", ZDF
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6030-tv-pc
+#EXTINF:-1, tvg-id="Šlágr TV" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776577/categories/img/sizes/64x64/canvas/64x64/19776577.png" group-titles="Hudobné", Šlágr TV
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6195-tv-pc
+#EXTINF:-1, tvg-id="Senzi TV HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776576/categories/img/sizes/64x64/canvas/64x64/19776576.png" group-titles="Hudobné", Senzi TV HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6163-tv-pc
+#EXTINF:-1, tvg-id="Lux TV HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776579/categories/img/sizes/64x64/canvas/64x64/19776579.jpg" group-titles="Náboženské", Lux TV HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6026-tv-pc
+#EXTINF:-1, tvg-id="Love Nature HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/53772820/categories/img/sizes/64x64/canvas/64x64/53772820.png" group-titles="Dočasné (Bonus)", Love Nature HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6461-tv-pc
+#EXTINF:-1, tvg-id="Discovery Turbo Extra HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/20132172/categories/img/sizes/64x64/canvas/64x64/20132172.png" group-titles="Dočasné (Bonus)", Discovery Turbo Extra HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6186-tv-pc
+#EXTINF:-1, tvg-id="Animal Planet HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245134/categories/img/sizes/64x64/canvas/64x64/38245134.png" group-titles="Dočasné (Bonus)", Animal Planet HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6182-tv-pc
+#EXTINF:-1, tvg-id="IDX HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/20120756/categories/img/sizes/64x64/canvas/64x64/20120756.jpg" group-titles="Dočasné (Bonus)", IDX HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6185-tv-pc
+#EXTINF:-1, tvg-id="Discovery Science HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245122/categories/img/sizes/64x64/canvas/64x64/38245122.png" group-titles="Dočasné (Bonus)", Discovery Science HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6184-tv-pc
+#EXTINF:-1, tvg-id="Discovery ShowcaseHD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/20120752/categories/img/sizes/64x64/canvas/64x64/20120752.jpg" group-titles="Dočasné (Bonus)", Discovery ShowcaseHD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6183-tv-pc
+#EXTINF:-1, tvg-id="LeoTV HD Extasy HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776609/categories/img/sizes/64x64/canvas/64x64/19776609.png" group-titles="Erotické", LeoTV HD Extasy HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6233-tv-pc
+#EXTINF:-1, tvg-id="Jojko" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/jojko.png" group-titles="Pre deti", Jojko
+http://nn.geo.joj.sk/hls/rik-360.m3u8
+#EXTINF:-1, tvg-id="LALA TV HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/20624005/categories/img/sizes/64x64/canvas/64x64/20624005.png" group-titles="Pre deti", LALA TV HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6454-tv-pc
+#EXTINF:-1, tvg-id="Minimax" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776596/categories/img/sizes/64x64/canvas/64x64/19776596.png" group-titles="Pre deti", Minimax
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6082-tv-pc
+#EXTINF:-1, tvg-id="Orange Infokanál HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/20132162/categories/img/sizes/64x64/canvas/64x64/20132162.png" group-titles="Iné", Orange Infokanál HD
+http://jurooo.wz.cz/Xb/php-test/playlist01.php?ch=6436-tv-pc

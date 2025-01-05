@@ -1,0 +1,56 @@
+#EXTM3U
+#EXTINF:-1, tvg-id="JOJ HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245233/categories/img/sizes/64x64/canvas/64x64/38245233.png" group-title="Všeobecné"", JOJ HD
+https://nn.geo.joj.sk/live/hls/joj-720.m3u8
+#EXTINF:-1, tvg-id="JOJ Plus HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245112/categories/img/sizes/64x64/canvas/64x64/38245112.png" group-title="Filmy a seriály"", JOJ Plus HD
+https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
+#EXTINF:-1, tvg-id="JOJ Family" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/joj-family-1.jpg" group-title="Filmy a seriály"1234", JOJ Family
+http://nn.geo.joj.sk/hls/family-360.m3u8
+#EXTINF:-1, tvg-id="WAU HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/12144840/categories/img/sizes/64x64/canvas/64x64/12144840.jpg" group-title="Filmy a seriály"", WAU HD
+https://nn.geo.joj.sk/live/hls/wau-540.m3u8
+#EXTINF:-1, tvg-id="Prima COOL HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776564/categories/img/sizes/64x64/canvas/64x64/19776564.jpg" group-title="Filmy a seriály"", Prima COOL HD
+http://92.62.234.223/104/mystream.m3u8
+#EXTINF:-1, tvg-id="Prima Love HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776567/categories/img/sizes/64x64/canvas/64x64/19776567.jpg" group-title="Filmy a seriály"", Prima Love HD
+http://92.62.234.223/101/mystream.m3u8
+#EXTINF:-1, tvg-id="Nova" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/nova.jpg" group-titles="Všeobecné", Nova
+https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u8
+#EXTINF:-1, tvg-id="Nova 2" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/nova2.jpg" group-titles="Filmy a seriály", Nova 2
+https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist.m3u8
+#EXTINF:-1, tvg-id="Nova Cinema" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/nova-cinema.jpg" group-titles="Filmy a seriály", Nova Cinema
+https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8
+#EXTINF:-1, tvg-id="Nova Action" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/nova-action.png" group-titles="Filmy a seriály", Nova Action
+http://92.62.234.223/102/mystream.m3u8
+#EXTINF:-1, tvg-id="Nova Gold" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/nova-gold.png" group-titles="Filmy a seriály", Nova Gold
+https://nova-live.ssl.cdn.cra.cz/channels/nova_gold_avod/playlist.m3u8
+#EXTINF:-1, tvg-id="Jojko" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/jojko.png" group-titles="", Jojko
+http://nn.geo.joj.sk/hls/rik-360.m3u8
+#EXTINF:-1, tvg-id="Óčko HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/20401983/categories/img/sizes/64x64/canvas/64x64/20401983.png" group-titles="", Óčko HD
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_mq.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1, tvg-id="Óčko Star HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/20401984/categories/img/sizes/64x64/canvas/64x64/20401984.png" group-titles="Hudobné", Óčko Star HD
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_lq.m3u8
+#EXTINF:-1, tvg-id="Óčko Expres" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/ocko-expres.png" group-titles="Hudobné", Óčko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
+#EXTINF:-1, tvg-id="Retro Tv" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/retro.png" group-titles="Hudobné", Retro Tv
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1311612608_b750000.m3u8
+#EXTINF:-1, tvg-id="Šlágr TV" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776577/categories/img/sizes/64x64/canvas/64x64/19776577.png" group-titles="Hudobné", Šlágr TV
+https://stream-6.mazana.tv/slagr.m3u
+#EXTINF:-1, tvg-id="Šlágr 2 TV" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/slagr-2.jpg" group-titles="", Šlágr 2 TV
+https://stream-33.mazana.tv/slagr2.m3u
+#EXTINF:-1, tvg-id="Šlágr Premium" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/slagr-premium.jpg" group-titles="", Šlágr Premium
+https://arenasportslovakia.ddns.net/hls/slager.m3u8
+#EXTINF:-1, tvg-id="Senzi TV HD" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776576/categories/img/sizes/64x64/canvas/64x64/19776576.png" group-titles="Hudobné", Senzi TV HD
+http://lb.streaming.sk/senzi/stream/chunklist_w892462024.m3u8
+#EXTINF:-1, tvg-id="NDR" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/ndr.png" group-titles="Zahraničné", NDR
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-b.m3u8?sd=4&set-segment-duration=responsive&rebase=on&id=
+#EXTINF:-1, tvg-id="DW" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/dw2.jpg" group-titles="Zahraničné", DW
+http://ott-cdn.ucom.am/s26/01.m3u8
+#EXTINF:-1, tvg-id="Sky news" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/skynews.jpg" group-titles="Zahraničné", Sky news
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+#EXTINF:-1, tvg-id="BBC News International " tvg-logo="http://jurooo.wz.cz/pics/tvlogos/bbc.jpg" group-titles="Zahraničné", BBC News International 
+http://ott-cdn.ucom.am/s24/01.m3u8
+#EXTINF:-1, tvg-id="CBSN" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/cbsn.jpg" group-titles="Zahraničné", CBSN
+http://cbsn-phi-cedexis.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master_6.m3u8
+#EXTINF:-1, tvg-id="HBO" tvg-logo="" group-titles="", HBO
+https://tv.parrottv.tk/CZHBO.m3u8
+#EXTINF:-1, tvg-id="HBO 2" tvg-logo="" group-titles="", HBO 2
+https://tv.parrottv.tk/CZHBO2.m3u8
+#EXTINF:-1, tvg-id="AXN Black" tvg-logo="" group-titles="", AXN Black

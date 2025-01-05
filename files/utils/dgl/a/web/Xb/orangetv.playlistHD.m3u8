@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Jednotka HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/38245146/categories/img/sizes/64x64/canvas/64x64/38245146.png" tvg-chno="100" group-titles="OrangeTV", Jednotka HD
+https://ntv-st04-vod02.sld02.orange.sk/at/08fbc22e3bbeb3598a3e8c09b1359b7e/1735246875380/5104-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="Dvojka HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/38245152/categories/img/sizes/64x64/canvas/64x64/38245152.png" tvg-chno="110" group-titles="OrangeTV", Dvojka HD
+https://ntv-st02-vod02.bts10.orange.sk/at/0b1c42ddfbfb1323176cba584d0d7b16/1735246876094/5105-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="Markiza HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/277305441/categories/img/sizes/64x64/canvas/64x64/277305441.png" tvg-chno="120" group-titles="OrangeTV", Markiza HD
+https://ntv-st05-vod02.bts10.orange.sk/at/f7701afe718386914c4c649cf6dbf763/1735246876844/5106-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="JOJ HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/38245233/categories/img/sizes/64x64/canvas/64x64/38245233.png" tvg-chno="130" group-titles="OrangeTV", JOJ HD
+https://ntv-st03-vod02.bts10.orange.sk/at/24673ab4aae4b8279c642f2583a5fc7e/1735246877941/5107-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="RTVS Šport HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/178572683/categories/img/sizes/64x64/canvas/64x64/178572683.png" tvg-chno="140" group-titles="OrangeTV", RTVS Šport HD
+https://ntv-st01-vod02.bts10.orange.sk/at/8d54f12385d7d5a3d17d074b217a8106/1735246878694/6482-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="RTVS 24 HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/211025952/categories/img/sizes/64x64/canvas/64x64/211025952.png" tvg-chno="150" group-titles="OrangeTV", RTVS 24 HD
+https://ntv-st04-vod02.bts10.orange.sk/at/cc8a70d34b3f276353861adde47c55da/1735246879488/6458-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="Doma HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/277306077/categories/img/sizes/64x64/canvas/64x64/277306077.png" tvg-chno="160" group-titles="OrangeTV", Doma HD
+https://ntv-st02-vod02.sld02.orange.sk/at/8d9842d414eb939182d1575d2fff0b34/1735246880220/5089-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="WAU HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/267886168/categories/img/sizes/64x64/canvas/64x64/267886168.png" tvg-chno="170" group-titles="OrangeTV", WAU HD
+https://ntv-st05-vod02.sld02.orange.sk/at/b52d95b2ed544ce16c47967198660de7/1735246881156/5194-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="Dajto HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/277306507/categories/img/sizes/64x64/canvas/64x64/277306507.png" tvg-chno="180" group-titles="OrangeTV", Dajto HD
+https://ntv-st03-vod02.sld02.orange.sk/at/b16e0a0b5b81c9f2f80cf7cabe4b10db/1735246881968/5039-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="JOJ Plus HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/38245112/categories/img/sizes/64x64/canvas/64x64/38245112.png" tvg-chno="190" group-titles="OrangeTV", JOJ Plus HD
+https://ntv-st01-vod02.sld02.orange.sk/at/1a4bc29c7b0a8d8dc6b1df7c06248186/1735246882876/5146-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="TA3 HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/141281005/categories/img/sizes/64x64/canvas/64x64/141281005.png" tvg-chno="195" group-titles="OrangeTV", TA3 HD
+https://ntv-st04-vod02.sld02.orange.sk/at/b1f4aa80aa31181050973239805bc9dc/1735246883717/5108-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="Markíza Krimi HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/252932175/categories/img/sizes/64x64/canvas/64x64/252932175.png" tvg-chno="196" group-titles="OrangeTV", Markíza Krimi HD
+https://ntv-st02-vod02.bts10.orange.sk:443/at/a1c7f98ff2a3b6126f3a3eceb89a4dc4/1735246884749/6495-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="TV Spark HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/490202071/categories/img/sizes/64x64/canvas/64x64/490202071.png" tvg-chno="198" group-titles="OrangeTV", TV Spark HD
+https://ntv-st05-vod02.bts10.orange.sk/at/e1c6f08e6990572f072203a9111a0201/1735246885817/6404-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="CNN Prima News HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/266275794/categories/img/sizes/64x64/canvas/64x64/266275794.png" tvg-chno="200" group-titles="OrangeTV", CNN Prima News HD
+https://ntv-st02-vod02.sld02.orange.sk/at/59d10c25df55ff6499c96338ef56c05e/1735246886757/6498-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="JOJ 24 HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/292790510/categories/img/sizes/64x64/canvas/64x64/292790510.png" tvg-chno="201" group-titles="OrangeTV", JOJ 24 HD
+https://ntv-st03-vod02.bts10.orange.sk:443/at/13240efd98eb21918210aa7938151244/1735246887508/6501-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="Orange Vianoce" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/497661032/categories/img/sizes/64x64/canvas/64x64/497661032.png" tvg-chno="202" group-titles="OrangeTV", Orange Vianoce
+https://ntv-st20-vod02.bts10.orange.sk/at/9761028da58f507cab22aa32a654d90a/1735246888326/6516-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="TV Doktor HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/406843623/categories/img/sizes/64x64/canvas/64x64/406843623.png" tvg-chno="204" group-titles="OrangeTV", TV Doktor HD
+https://ntv-st06-vod02.bts10.orange.sk/at/b9d38441641a67c699b442e0ea03831b/1735246889041/6503-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="ČT 1 HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/20131014/categories/img/sizes/64x64/canvas/64x64/20131014.png" tvg-chno="208" group-titles="OrangeTV", ČT 1 HD
+https://ntv-st05-vod02.bts10.orange.sk/at/cb03176bc2c177b842f888504ffc86c1/1735246889844/5100-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="ČT 2 HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/20131041/categories/img/sizes/64x64/canvas/64x64/20131041.png" tvg-chno="210" group-titles="OrangeTV", ČT 2 HD
+https://ntv-st03-vod02.sld02.orange.sk/at/06e1bc06f227a157538c79931ec9106f/1735246890712/5101-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="ČT 24 HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/19776563/categories/img/sizes/64x64/canvas/64x64/19776563.jpg" tvg-chno="240" group-titles="OrangeTV", ČT 24 HD
+https://ntv-st02-vod02.sld02.orange.sk/at/2bc0fa216c06f0576fc30c768f0dc074/1735246891450/6146-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="Prima LOVE SK HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/492050504/categories/img/sizes/64x64/canvas/64x64/492050504.png" tvg-chno="280" group-titles="OrangeTV", Prima LOVE SK HD
+https://ntv-st01-vod02.sld02.orange.sk/at/0710288cc2f067997accbf01569b510f/1735246892190/6510-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="Prima COOL SK HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/463626560/categories/img/sizes/64x64/canvas/64x64/463626560.png" tvg-chno="290" group-titles="OrangeTV", Prima COOL SK HD
+https://ntv-st05-vod02.sld02.orange.sk/at/131e748e97215e19ef56b23b54fa843d/1735246892999/6505-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="Prima SK HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/464762173/categories/img/sizes/64x64/canvas/64x64/464762173.png" tvg-chno="300" group-titles="OrangeTV", Prima SK HD
+https://ntv-st04-vod02.sld02.orange.sk/at/572a657c52bfdbed134d5165b7930986/1735246893838/6016-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="Nova International" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/38245248/categories/img/sizes/64x64/canvas/64x64/38245248.png" tvg-chno="310" group-titles="OrangeTV", Nova International
+https://ntv-st03-vod02.bts10.orange.sk/at/0e13b42d5a8ed940786556985cd1c087/1735246894551/6196-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="Markíza Klasik HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/473738527/categories/img/sizes/64x64/canvas/64x64/473738527.png" tvg-chno="312" group-titles="OrangeTV", Markíza Klasik HD
+https://ntv-st02-vod02.bts10.orange.sk/at/d593567e01b0df550a25e46c53948ae2/1735246895263/6506-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="TV Barrandov HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/38245250/categories/img/sizes/64x64/canvas/64x64/38245250.png" tvg-chno="350" group-titles="OrangeTV", TV Barrandov HD
+https://ntv-st01-vod02.bts10.orange.sk/at/73ef605b75c9ea6ebaf8a9331945ee19/1735246896063/6020-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="Kino Barrandov HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/19776574/categories/img/sizes/64x64/canvas/64x64/19776574.jpg" tvg-chno="360" group-titles="OrangeTV", Kino Barrandov HD
+https://ntv-st05-vod02.bts10.orange.sk/at/7af747e0839bb9d292198707758de6a4/1735246896819/6401-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="Barrandov Krimi HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/20496187/categories/img/sizes/64x64/canvas/64x64/20496187.png" tvg-chno="370" group-titles="OrangeTV", Barrandov Krimi HD
+https://ntv-st04-vod02.bts10.orange.sk/at/435ae60c7e074aafa9800a784dec214c/1735246897598/6402-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="Senzi TV HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/19776576/categories/img/sizes/64x64/canvas/64x64/19776576.png" tvg-chno="380" group-titles="OrangeTV", Senzi TV HD
+https://ntv-st03-vod02.bts10.orange.sk/at/2558f8a41b88edb115beedbc2eb5555b/1735246898341/6163-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="Šlágr Originál" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/174969472/categories/img/sizes/64x64/canvas/64x64/174969472.png" tvg-chno="390" group-titles="OrangeTV", Šlágr Originál
+https://ntv-st02-vod02.bts10.orange.sk/at/0e6102e556e7ce6466de3592c692f0a1/1735246898989/6195-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="Lux TV HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/19776579/categories/img/sizes/64x64/canvas/64x64/19776579.jpg" tvg-chno="400" group-titles="OrangeTV", Lux TV HD
+https://ntv-st01-vod02.bts10.orange.sk/at/616d771b16fd9626da2d262c30c0c77f/1735246899896/6026-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="Film+" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/397555514/categories/img/sizes/64x64/canvas/64x64/397555514.png" tvg-chno="426" group-titles="OrangeTV", Film+
+https://ntv-st05-vod02.bts10.orange.sk/at/4682ae4d3a3d72e6868cc3ba905e6809/1735246900707/6109-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="Canal+ Action" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/476053835/categories/img/sizes/64x64/canvas/64x64/476053835.png" tvg-chno="472" group-titles="OrangeTV", Canal+ Action
+https://ntv-st04-vod02.bts10.orange.sk/at/70d15ca9071a58148fd8e99e81378ce4/1735246901513/6507-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="Sport 2 HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/95250323/categories/img/sizes/64x64/canvas/64x64/95250323.png" tvg-chno="550" group-titles="OrangeTV", Sport 2 HD
+https://ntv-st03-vod02.bts10.orange.sk/at/f0c16d3bc677384c7db56bdc1be963a7/1735246902197/6149-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="Minimax" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/19776596/categories/img/sizes/64x64/canvas/64x64/19776596.png" tvg-chno="640" group-titles="OrangeTV", Minimax
+https://ntv-st02-vod02.bts10.orange.sk/at/315e1f8607595bfc5d3b8ce416e1670d/1735246902954/6082-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="JimJam" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/19776601/categories/img/sizes/64x64/canvas/64x64/19776601.jpg" tvg-chno="670" group-titles="OrangeTV", JimJam
+https://ntv-st01-vod02.bts10.orange.sk/at/3bb3c04b3ddf812e158d7035e5ed678b/1735246903641/6084-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="Óčko HD" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/20401983/categories/img/sizes/64x64/canvas/64x64/20401983.png" tvg-chno="751" group-titles="OrangeTV", Óčko HD
+https://ntv-st05-vod02.bts10.orange.sk/at/ac9eee4d5f1f03bc88742306b0076c9a/1735246904490/6028-tv-x_cast.mpd
+#EXTINF:-1 tvg-id="Spektrum Home" tvg-logo="http://app01.gtm.orange.sk/https://cnt01.gtm.orange.sk/contentserver/contents/245718295/categories/img/sizes/64x64/canvas/64x64/245718295.png" tvg-chno="773" group-titles="OrangeTV", Spektrum Home
+https://ntv-st03-vod02.sld02.orange.sk/at/7041249a5d4ca5c8d4fc9fc6a405efb8/1735246905193/6153-tv-x_cast.mpd

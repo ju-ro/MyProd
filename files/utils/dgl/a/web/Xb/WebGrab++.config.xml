@@ -1,0 +1,127 @@
+﻿<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml 
+  and http://webgrabplus.com/sites/default/files/downloads/Misc/Documented_Configuration_Files.zip -->
+   
+  <filename>C:\Users\juraj.soviar\Documents\WG++\guide.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">rex</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
+  <!--<decryptkey site="site-name">decrypt_userkey</decryptkey>-->
+  <license wg-username="ju-ro" registered-email="juro86@gmail.com" password="7f4227b8"></license>
+  <logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>1</timespan>
+  <update>f</update>
+ 
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+ 
+ 
+
+    <channel update="i" site="tv.sms.cz.m" site_id="Cinemax" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Cinemax+2" xmltv_id="Cinemax 2">Cinemax 2</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="DocuBox+HD" xmltv_id="DocuBox HD">DocuBox HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Filmbox+Extra+HD" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Filmbox+Family" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Filmbox+Stars" xmltv_id="FilmBox Stars">FilmBox Stars</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Filmbox+Premium" xmltv_id="FilmBox Premium HD">FilmBox Premium HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Fightbox+HD" xmltv_id="FightBox HD">FightBox HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Erox+HD" xmltv_id="EroX HD">EroX HD</channel>
+   
+       
+    <channel update="i" site="tv.sms.cz.m" site_id="Nova+2" xmltv_id="Nova 2">Nova 2</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Nova+Action" xmltv_id="Nova Action">Nova Action</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Nova+Gold" xmltv_id="Nova Gold">Nova Gold</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="STV1" xmltv_id="Jednotka HD">Jednotka HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="STV2" xmltv_id="Dvojka HD">Dvojka HD</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="Trojka" xmltv_id="Trojka HD">Trojka HD</channel> 
+    <channel update="i" site="tv.sms.cz.m" site_id="Mark%EDza" xmltv_id="Markíza HD">Markíza HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Doma" xmltv_id="Doma HD">Doma HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="TV+DAJTO" xmltv_id="Dajto HD">Dajto HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="JOJ" xmltv_id="JOJ HD">JOJ HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="JOJ+Plus" xmltv_id="JOJ Plus HD">JOJ Plus HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="WAU" xmltv_id="WAU HD">WAU HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Lux" xmltv_id="Lux TV HD">Lux Tv HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="TA3" xmltv_id="TA3 HD">TA3 HD</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="%C8T3" xmltv_id="ČT 3 HD">ČT 3 HD</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="%C8T1" xmltv_id="ČT 1 HD">ČT 1 HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="%C8T2" xmltv_id="ČT 2 HD">ČT 2 HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="%C8T24" xmltv_id="ČT 24 HD">ČT 24 HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="%C8T4+Sport" xmltv_id="ČT Sport HD">ČT Sport HD</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="Nova" xmltv_id="Nova">Nova</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="JOJ+Family" xmltv_id="JOJ Family">JOJ Family</channel>
+	
+    <channel update="i" site="tv.sms.cz.m" site_id="Nova+Cinema" xmltv_id="Nova Cinema">Nova Cinema</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Nova+Sport+1" xmltv_id="Nova Sport 1 HD">Nova Sport 1 HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Nova+Sport+2" xmltv_id="Nova Sport 2 HD">Nova Sport 2 HD</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="%C8T+art" xmltv_id="ČT :D HD / ČT art HD">ČT :D HD / ČT art HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Nova+International" xmltv_id="Nova International">Nova International</channel> 
+	<channel update="i" site="tv.sms.cz.m" site_id="Prima+Cool" xmltv_id="Prima COOL HD">Prima COOL HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Prima+LOVE" xmltv_id="Prima LOVE HD">Prima LOVE HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Prima+ZOOM" xmltv_id="Prima ZOOM HD">Prima ZOOM HD</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="Prima+Krimi" xmltv_id="Prima KRIMI HD">Prima KRIMI HD</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="Prima" xmltv_id="Prima">Prima</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="Prima+MAX" xmltv_id="Prima MAX HD">Prima MAX HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Prima+Plus" xmltv_id="Prima Plus HD">Prima Plus HD</channel>	
+    <channel update="i" site="tv.sms.cz.m" site_id="Barrandov" xmltv_id="TV Barrandov HD">TV Barrandov HD</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="Kino+Barrandov" xmltv_id="Kino Barrandov HD">Kino Barrandov HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Barrandov+Krimi" xmltv_id="Barrandov Krimi HD">Barrandov Krimi HD</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="M%F2am+TV" xmltv_id="Mňam TV HD">Mňam TV HD</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="Eurosport+1" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Eurosport+2" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Sport1" xmltv_id="Sport 1 HD">Sport 1 HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Sport2" xmltv_id="Sport 2 HD">Sport 2 HD</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="Premier+Sport" xmltv_id="Premier Sport">Premier Sport</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="Orange+Sport+HD" xmltv_id="Orange Sport">Orange Sport</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Orange+Sport+2+HD" xmltv_id="Orange Sport 2">Orange Sport 2</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Orange+Sport+3+HD" xmltv_id="Orange Sport 3">Orange Sport 3</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Orange+Sport+4+HD" xmltv_id="Orange Sport 4">Orange Sport 4</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="Extreme+Sports" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+
+	
+	<channel update="i" site="tv.sms.cz.m" site_id="Arena+Sport+1" xmltv_id="Arena Sport 1 HD">Arena Sport 1 HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Arena+Sport+2" xmltv_id="Arena Sport 2">Arena Sport 2</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="AMC" xmltv_id="AMC HD">AMC HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Filmbox" xmltv_id="Filmbox">Filmbox</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Discovery" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Investigation+Discovery" xmltv_id="IDX">IDX</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="TLC" xmltv_id="TLC">TLC</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="Lala+TV" xmltv_id="Lala TV HD">Lala TV HD</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="Jojko" xmltv_id="Jojko">Jojko</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Disney+Channel" xmltv_id="Disney Channel">Disney Channel</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="%8Al%E1gr+TV" xmltv_id="Šlágr TV">Šlágr TV</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="SENZI" xmltv_id="Senzi TV HD">Senzi TV HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="ZDF" xmltv_id="ZDF">ZDF</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="%D3%E8ko" xmltv_id="Óčko HD">Óčko HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="%D3%E8ko+Expres" xmltv_id="Óčko Expres">Óčko Expres</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Minimax" xmltv_id="Minimax">Minimax</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="Leo" xmltv_id="LeoTV HD / Extasy HD">LeoTV HD / Extasy HD</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="The+Fishing+and+Hunting" xmltv_id="Fishing and Hunting">Fishing and Hunting</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="UP+NETWORK" xmltv_id="Up Network HD">Up Network HD</channel>	    
+    <channel update="i" site="tv.sms.cz.m" site_id="Viasat+Explorer" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="Love+Nature" xmltv_id="Love Nature HD">Love Nature HD</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="Paprika" xmltv_id="TV Paprika">TV Paprika</channel>
+	
+    <channel update="i" site="tv.sms.cz.m" site_id="Viasat+History" xmltv_id="Viasat History HD">Viasat History HD</channel>	
+    <channel update="i" site="tv.sms.cz.m" site_id="Viasat+Nature" xmltv_id="Viasat Nature HD">Viasat Nature HD</channel>	
+    <channel update="i" site="tv.sms.cz.m" site_id="National+Geographic+HD" xmltv_id="National Geographic Channel HD">National Geographic Channel HD</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="National+Geographic+Wild" xmltv_id="NGC Wild">NGC Wild</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="WDR+Fernsehen" xmltv_id="WDR">WDR</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="History+Channel" xmltv_id="History Channel HD">History Channel HD</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="Travel+Channel" xmltv_id="Travel Channel">Travel Channel</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="Golf+Channel" xmltv_id="Golf Channel HD">Golf Channel HD</channel>	
+	<channel update="i" site="tv.sms.cz.m" site_id="ORF1" xmltv_id="ORF 1">ORF 1</channel>	
+	<channel update="i" site="tv.sms.cz.m" site_id="ORF2" xmltv_id="ORF 2">ORF 2</channel>	
+	<channel update="i" site="tv.sms.cz.m" site_id="CNN+International" xmltv_id="CNN">CNN</channel>	
+	<channel update="i" site="tv.sms.cz.m" site_id="BBC+World+News" xmltv_id="BBC News International">BBC News International</channel>	
+	<channel update="i" site="tv.sms.cz.m" site_id="VH1" xmltv_id="VH1">VH1</channel>
+	<channel update="i" site="tv.sms.cz.m" site_id="Retro+Music" xmltv_id="Retro Tv">Retro Tv</channel>
+	
+</settings>

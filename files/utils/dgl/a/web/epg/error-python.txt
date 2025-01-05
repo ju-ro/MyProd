@@ -1,0 +1,33 @@
+Python path configuration:
+  PYTHONHOME = '/usr/lib/python3.9'
+  PYTHONPATH = '/usr/lib/python3.9'
+  program name = 'python3'
+  isolated = 0
+  environment = 1
+  user site = 1
+  import site = 1
+  sys._base_executable = '/usr/bin/python3'
+  sys.base_prefix = '/usr/lib/python3.9'
+  sys.base_exec_prefix = '/usr/lib/python3.9'
+  sys.platlibdir = 'lib'
+  sys.executable = '/usr/bin/python3'
+  sys.prefix = '/usr/lib/python3.9'
+  sys.exec_prefix = '/usr/lib/python3.9'
+  sys.path = [
+    '/usr/lib/python3.9',
+    '/usr/lib/python3.9/lib/python39.zip',
+    '/usr/lib/python3.9/lib/python3.9',
+    '/usr/lib/python3.9/lib/python3.9/lib-dynload',
+  ]
+Fatal Python error: init_fs_encoding: failed to get the Python codec of the filesystem encoding
+Python runtime state: core initialized
+Traceback (most recent call last):
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 666, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 571, in module_from_spec
+  File "<frozen importlib._bootstrap>", line 550, in _init_module_attrs
+  File "<frozen importlib._bootstrap>", line 391, in cached
+  File "<frozen importlib._bootstrap_external>", line 434, in _get_cached
+  File "<frozen importlib._bootstrap_external>", line 332, in cache_from_source
+TypeError: an integer is required (got type method_descriptor)
