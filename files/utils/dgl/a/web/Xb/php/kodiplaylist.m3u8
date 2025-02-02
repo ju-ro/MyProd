@@ -16,7 +16,7 @@ https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=5039-tv-mobile
 #EXTINF:-1, tvg-id="15568-markiza-klasik" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/473738527/categories/img/sizes/64x64/canvas/64x64/473738527.png" group-title="Filmy a seriály" parent-control="", Markíza Klasik HD
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6506-tv-mobile
 #EXTINF:-1, tvg-id="15476-canal+-action" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/476053835/categories/img/sizes/64x64/canvas/64x64/476053835.png" group-title="Športové" parent-control="", Canal+ Action
-https://youroshik.4fan.cz/Xb/php/githubplaylist01.php?ch=6507-tv-mobile
+https://youroshik.4fan.cz/Xb/php/github/playlist01.php?ch=6507-tv-mobile
 #EXTINF:-1, tvg-id="206-joj-plus" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245112/categories/img/sizes/64x64/canvas/64x64/38245112.png" group-title="Filmy a seriály" parent-control="", JOJ Plus HD
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=5146-tv-mobile
 #EXTINF:-1, tvg-id="15402-markiza-krimi" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/252932175/categories/img/sizes/64x64/canvas/64x64/252932175.png" group-title="Filmy a seriály" parent-control="", Markíza Krimi
@@ -98,7 +98,7 @@ https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6404-tv-mobile
 #EXTINF:-1, tvg-id="549-tlc" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/192618527/categories/img/sizes/64x64/canvas/64x64/192618527.png" group-title="Dokumentárne" parent-control="", TLC
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6181-tv-mobile
 #EXTINF:-1, tvg-id="207-the-fishing-and-hunting" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776594/categories/img/sizes/64x64/canvas/64x64/19776594.jpg" group-title="Hobby" parent-control="", Fishing and Hunting
-https://youroshik.4fan.cz/Xb/php/githubplaylist01.php?ch=6027-tv-mobile
+https://youroshik.4fan.cz/Xb/php/github/playlist01.php?ch=6027-tv-mobile
 #EXTINF:-1, tvg-id="704-auto-motor-sport" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/55475803/categories/img/sizes/64x64/canvas/64x64/55475803.jpg" group-title="Dokumentárne" parent-control="", Auto Motor Sport HD
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6165-tv-mobile
 #EXTINF:-1, tvg-id="55-axn" tvg-logo="https://raw.githubusercontent.com/ju-ro/MyProd/refs/heads/main/files/utils/dgl/a/web/pics/tvlogos/AXN.jpg" group-title="Filmy a seriály" parent-control="", AXN
@@ -120,7 +120,7 @@ https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6402-tv-mobile
 #EXTINF:-1, tvg-id="1512-rtvs-sport" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/178572683/categories/img/sizes/64x64/canvas/64x64/178572683.png" group-title="Športové" parent-control="", RTVS Šport
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6482-tv-mobile
 #EXTINF:-1, tvg-id="73-ct4-sport" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/19804128/categories/img/sizes/38x38/canvas/38x38/19804128.png" group-title="Športové" parent-control="", ČT Sport HD
-https://youroshik.4fan.cz/Xb/php/githubplaylist01.php?ch=6434-tv-mobile
+https://youroshik.4fan.cz/Xb/php/github/playlist01.php?ch=6434-tv-mobile
 #EXTINF:-1, tvg-id="" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ctsportplus.png" group-title="Športové" parent-control="", ČT Sport Plus HD
 plugin://plugin.video.freeview.sk/?provider=ct&channel=ctsportplus
 #EXTINF:-1, tvg-id="15291-joj-sport" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/177387135/categories/img/sizes/64x64/canvas/64x64/177387135.png" group-title="Športové" parent-control="", JOJ Šport
@@ -130,27 +130,27 @@ https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6069-tv-mobile
 #EXTINF:-1, tvg-id="59-eurosport-2" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245242/categories/img/sizes/64x64/canvas/64x64/38245242.png" group-title="Športové" parent-control="", Eurosport 2 HD
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6070-tv-mobile
 #EXTINF:-1, tvg-id="687-arena-sport-1" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/305537845/categories/img/sizes/64x64/canvas/64x64/305537845.png" group-title="Športové" parent-control="", Arena Sport 1 HD
-https://youroshik.4fan.cz/Xb/php/githubplaylist01.php?ch=6077-tv-mobile
+https://youroshik.4fan.cz/Xb/php/github/playlist01.php?ch=6077-tv-mobile
 #EXTINF:-1, tvg-id="800-arena-sport-2" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/305537851/categories/img/sizes/64x64/canvas/64x64/305537851.png" group-title="Športové" parent-control="", Arena Sport 2
-https://youroshik.4fan.cz/Xb/php/githubplaylist01.php?ch=6164-tv-mobile
+https://youroshik.4fan.cz/Xb/php/github/playlist01.php?ch=6164-tv-mobile
 #EXTINF:-1, tvg-id="205-nova-sport-1" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776589/categories/img/sizes/64x64/canvas/64x64/19776589.jpg" group-title="Športové" parent-control="", Nova Sport 1 HD
-https://youroshik.4fan.cz/Xb/php/githubplaylist01.php?ch=6073-tv-mobile
+https://youroshik.4fan.cz/Xb/php/github/playlist01.php?ch=6073-tv-mobile
 #EXTINF:-1, tvg-id="1038-nova-sport-2" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776590/categories/img/sizes/64x64/canvas/64x64/19776590.jpg" group-title="Športové" parent-control="", Nova Sport 2 HD
-https://youroshik.4fan.cz/Xb/php/githubplaylist01.php?ch=6427-tv-mobile
+https://youroshik.4fan.cz/Xb/php/github/playlist01.php?ch=6427-tv-mobile
 #EXTINF:-1, tvg-id="15412-canal+-sport" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/476053837/categories/img/sizes/64x64/canvas/64x64/476053837.png" group-title="Športové" parent-control="", Canal+ Sport 1
-https://youroshik.4fan.cz/Xb/php/githubplaylist01.php?ch=6508-tv-mobile
+https://youroshik.4fan.cz/Xb/php/github/playlist01.php?ch=6508-tv-mobile
 #EXTINF:-1, tvg-id="15537-canal+-sport-2" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/476778082/categories/img/sizes/64x64/canvas/64x64/476778082.png" group-title="Športové" parent-control="", Canal+ Sport 2
-https://youroshik.4fan.cz/Xb/php/githubplaylist01.php?ch=6509-tv-mobile
+https://youroshik.4fan.cz/Xb/php/github/playlist01.php?ch=6509-tv-mobile
 #EXTINF:-1, tvg-id="75-sport1" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/95250319/categories/img/sizes/64x64/canvas/64x64/95250319.png" group-title="Športové" parent-control="", Sport 1 HD
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6074-tv-mobile
 #EXTINF:-1, tvg-id="221-sport2" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/95250323/categories/img/sizes/64x64/canvas/64x64/95250323.png" group-title="Športové" parent-control="", Sport 2 HD
-https://youroshik.4fan.cz/Xb/php/githubplaylist01.php?ch=6149-tv-mobile
+https://youroshik.4fan.cz/Xb/php/github/playlist01.php?ch=6149-tv-mobile
 #EXTINF:-1, tvg-id="1522-premier-sport-2" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/137860491/categories/img/sizes/64x64/canvas/64x64/137860491.png" group-title="Športové" parent-control="", Premier Sport 2
-https://youroshik.4fan.cz/Xb/php/githubplaylist01.php?ch=6480-tv-mobile
+https://youroshik.4fan.cz/Xb/php/github/playlist01.php?ch=6480-tv-mobile
 #EXTINF:-1, tvg-id="51-extreme-sports" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776593/categories/img/sizes/64x64/canvas/64x64/19776593.jpg" group-title="Športové" parent-control="", Extreme Sports Channel
-https://youroshik.4fan.cz/Xb/php/githubplaylist01.php?ch=6071-tv-mobile
+https://youroshik.4fan.cz/Xb/php/github/playlist01.php?ch=6071-tv-mobile
 #EXTINF:-1, tvg-id="127-golf-channel" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245209/categories/img/sizes/64x64/canvas/64x64/38245209.png" group-title="Športové" parent-control="", Golf Channel HD
-https://youroshik.4fan.cz/Xb/php/githubplaylist01.php?ch=6076-tv-mobile
+https://youroshik.4fan.cz/Xb/php/github/playlist01.php?ch=6076-tv-mobile
 #EXTINF:-1, tvg-id="1472-body-in-balance-(sk)" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245181/categories/img/sizes/64x64/canvas/64x64/38245181.png" group-title="Hobby" parent-control="", Body in Balance
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6060-tv-mobile
 #EXTINF:-1, tvg-id="53-ocko" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/20401983/categories/img/sizes/64x64/canvas/64x64/20401983.png" group-title="Hudobné" parent-control="", Óčko HD
