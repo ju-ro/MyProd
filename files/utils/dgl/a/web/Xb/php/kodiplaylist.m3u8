@@ -61,8 +61,6 @@ https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6435-tv-mobile
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6018-tv-mobile
 #EXTINF:-1, tvg-id="1162-prima-sk" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/464762173/categories/img/sizes/64x64/canvas/64x64/464762173.png" group-title="Filmy a seriály" parent-control="", Prima SK HD
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6016-tv-mobile
-#REF!
-#REF!
 #EXTINF:-1, tvg-id="1149-cs-film" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/csfilm.png" group-title="Filmy a seriály" parent-control="", CS Film
 plugin://plugin.video.freeview.sk/?provider=joj&channel=csfilm
 #EXTINF:-1, tvg-id="1187-cs-history" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/cshistory.png" group-title="Filmy a seriály" parent-control="", CS History
@@ -77,14 +75,6 @@ plugin://plugin.video.freeview.sk/?provider=prima&channel=show
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6157-tv-mobile
 #EXTINF:-1, tvg-id="15509-joj-svet" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/412545404/categories/img/sizes/38x38/canvas/38x38/412545404.png" group-title="Dokumentárne" parent-control="", JOJ Svet HD
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6504-tv-mobile
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
 #EXTINF:-1, tvg-id="15322-hgtv" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/190867039/categories/img/sizes/64x64/canvas/64x64/190867039.png" group-title="Hobby" parent-control="", Home and Garden
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6484-tv-mobile
 #EXTINF:-1, tvg-id="15508-tv-doktor" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/406843623/categories/img/sizes/38x38/canvas/38x38/406843623.png" group-title="Hobby" parent-control="", TV Doktor HD
@@ -97,16 +87,6 @@ https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6179-tv-mobile
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6404-tv-mobile
 #EXTINF:-1, tvg-id="549-tlc" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/192618527/categories/img/sizes/64x64/canvas/64x64/192618527.png" group-title="Dokumentárne" parent-control="", TLC
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6181-tv-mobile
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
 #EXTINF:-1, tvg-id="82-amc" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776580/categories/img/sizes/64x64/canvas/64x64/19776580.png" group-title="Filmy a seriály" parent-control="", AMC HD
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6107-tv-mobile
 #EXTINF:-1, tvg-id="72-filmbox" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245203/categories/img/sizes/64x64/canvas/64x64/38245203.png" group-title="Filmy a seriály" parent-control="", FilmBox
@@ -193,3 +173,15 @@ https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6029-tv-mobile
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6033-tv-mobile
 #EXTINF:-1, tvg-id="81-arte" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/12144944/categories/img/sizes/64x64/canvas/64x64/12144944.jpg" group-title="Zahraničné" parent-control="", Arte HD
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6037-tv-mobile
+#EXTINF:-1, tvg-id="144-france24" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/12144949/categories/img/sizes/64x64/canvas/64x64/12144949.jpg" group-title="Zahraničné" parent-control="", France 24 AJ HD
+https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6041-tv-mobile
+#EXTINF:-1, tvg-id="145-france24-en" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/19776612/categories/img/sizes/64x64/canvas/64x64/19776612.jpg" group-title="Zahraničné" parent-control="", France 24 FR
+https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6042-tv-mobile
+#EXTINF:-1, tvg-id="558-rai-tre" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/197963216/categories/img/sizes/64x64/canvas/64x64/197963216.png" group-title="Zahraničné" parent-control="", RAI 3 HD
+https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6487-tv-mobile
+#EXTINF:-1, tvg-id="244-canal-24-horas" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/197963224/categories/img/sizes/64x64/canvas/64x64/197963224.png" group-title="Zahraničné" parent-control="", Canal 24 Horas HD
+https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6488-tv-mobile
+#EXTINF:-1, tvg-id="156-rai-uno" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/12145118/categories/img/sizes/64x64/canvas/64x64/12145118.jpg" group-title="Zahraničné" parent-control="", RAI 1 HD
+https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6055-tv-mobile
+#EXTINF:-1, tvg-id="119-tve" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/38245227/categories/img/sizes/64x64/canvas/64x64/38245227.png" group-title="Zahraničné" parent-control="", TVE Espana HD
+https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6056-tv-mobile
