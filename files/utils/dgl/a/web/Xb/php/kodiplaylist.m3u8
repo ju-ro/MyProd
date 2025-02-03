@@ -50,15 +50,15 @@ plugin://plugin.video.freeview.sk?provider=nova&channel=novalady
 #EXTINF:-1, tvg-id="4-prima" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/prima.png" group-title="" parent-control="", Prima
 plugin://plugin.video.freeview.sk?provider=prima&channel=prima
 #EXTINF:-1, tvg-id="220-prima-cool" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776564/categories/img/sizes/64x64/canvas/64x64/19776564.jpg" group-title="Filmy a seriály" parent-control="", Prima COOL HD
-https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6017-tv-mobile
+https://youroshik.4fan.cz/Xb/php/github/playlist01.php?ch=6017-tv-mobile
 #EXTINF:-1, tvg-id="15562-prima-cool-sk" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/463626560/categories/img/sizes/64x64/canvas/64x64/463626560.png" group-title="Filmy a seriály" parent-control="", Prima COOL SK HD
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6505-tv-mobile
 #EXTINF:-1, tvg-id="1122-prima-max" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776566/categories/img/sizes/64x64/canvas/64x64/19776566.jpg" group-title="Filmy a seriály" parent-control="", Prima MAX HD
-https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6400-tv-mobile
+https://youroshik.4fan.cz/Xb/php/github/playlist01.php?ch=6400-tv-mobile
 #EXTINF:-1, tvg-id="1196-prima-krimi" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19804127/categories/img/sizes/64x64/canvas/64x64/19804127.png" group-title="Filmy a seriály" parent-control="", Prima Krimi HD
-https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6435-tv-mobile
+https://youroshik.4fan.cz/Xb/php/github/playlist01.php?ch=6435-tv-mobile
 #EXTINF:-1, tvg-id="496-prima-love" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776567/categories/img/sizes/64x64/canvas/64x64/19776567.jpg" group-title="Filmy a seriály" parent-control="", Prima Love HD
-https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6018-tv-mobile
+https://youroshik.4fan.cz/Xb/php/github/playlist01.php?ch=6018-tv-mobile
 #EXTINF:-1, tvg-id="1162-prima-sk" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/464762173/categories/img/sizes/64x64/canvas/64x64/464762173.png" group-title="Filmy a seriály" parent-control="", Prima SK HD
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6016-tv-mobile
 #EXTINF:-1, tvg-id="1149-cs-film" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/csfilm.png" group-title="Filmy a seriály" parent-control="", CS Film
@@ -72,7 +72,7 @@ plugin://plugin.video.freeview.sk/?provider=prima&channel=star
 #EXTINF:-1, tvg-id="15292-prima-show" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/primashow.png" group-title="Filmy a seriály" parent-control="", Prima Show
 plugin://plugin.video.freeview.sk/?provider=prima&channel=show
 #EXTINF:-1, tvg-id="708-prima-zoom" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776565/categories/img/sizes/64x64/canvas/64x64/19776565.jpg" group-title="Dokumentárne" parent-control="", Prima ZOOM HD
-https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6157-tv-mobile
+https://youroshik.4fan.cz/Xb/php/github/playlist01.php?ch=6157-tv-mobile
 #EXTINF:-1, tvg-id="15509-joj-svet" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/412545404/categories/img/sizes/38x38/canvas/38x38/412545404.png" group-title="Dokumentárne" parent-control="", JOJ Svet HD
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6504-tv-mobile
 #EXTINF:-1, tvg-id="15322-hgtv" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/190867039/categories/img/sizes/64x64/canvas/64x64/190867039.png" group-title="Hobby" parent-control="", Home and Garden
@@ -101,8 +101,6 @@ https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6402-tv-mobile
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6482-tv-mobile
 #EXTINF:-1, tvg-id="73-ct4-sport" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/19804128/categories/img/sizes/38x38/canvas/38x38/19804128.png" group-title="Športové" parent-control="", ČT Sport HD
 https://youroshik.4fan.cz/Xb/php/github/playlist01.php?ch=6434-tv-mobile
-#EXTINF:-1, tvg-id="" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ctsportplus.png" group-title="Športové" parent-control="", ČT Sport Plus HD
-plugin://plugin.video.freeview.sk/?provider=ct&channel=ctsportplus
 #EXTINF:-1, tvg-id="15291-joj-sport" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/177387135/categories/img/sizes/64x64/canvas/64x64/177387135.png" group-title="Športové" parent-control="", JOJ Šport
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=6481-tv-mobile
 #EXTINF:-1, tvg-id="15611-joj-sport-2" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/510293251/categories/img/sizes/64x64/canvas/64x64/510293251.png" group-title="Športové" parent-control="", JOJ Šport 2
