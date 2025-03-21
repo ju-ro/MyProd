@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, tvg-id="10-jednotka" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245146/categories/img/sizes/64x64/canvas/64x64/38245146.png" group-title="Všeobecné" parent-control="", Jednotka HD
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=5104-tv-mobile
+#EXTINF:-1, tvg-id="10-jednotka" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245146/categories/img/sizes/64x64/canvas/64x64/38245146.png" group-title="Všeobecné" parent-control="", Jednotka HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=100
 #EXTINF:-1, tvg-id="11-dvojka" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245152/categories/img/sizes/64x64/canvas/64x64/38245152.png" group-title="Všeobecné" parent-control="", Dvojka HD
 https://youroshik.4fan.cz/Xb/php/github/playlist.php?ch=5105-tv-mobile
 #EXTINF:-1, tvg-id="RTVS 24" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/211025952/categories/img/sizes/64x64/canvas/64x64/211025952.png" group-title="Spravodajstvo" parent-control="", RTVS 24
