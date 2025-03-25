@@ -1,0 +1,185 @@
+#EXTM3U
+#EXTINF:-1, tvg-id="10-jednotka" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245146/categories/img/sizes/64x64/canvas/64x64/38245146.png" group-title="Všeobecné" parent-control="", Jednotka HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=100
+#EXTINF:-1, tvg-id="11-dvojka" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245152/categories/img/sizes/64x64/canvas/64x64/38245152.png" group-title="Všeobecné" parent-control="", Dvojka HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=110
+#EXTINF:-1, tvg-id="RTVS 24" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/211025952/categories/img/sizes/64x64/canvas/64x64/211025952.png" group-title="Spravodajstvo" parent-control="", RTVS 24
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=150
+#EXTINF:-1, tvg-id="8-markiza" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/277305441/categories/img/sizes/64x64/canvas/64x64/277305441.png" group-title="Všeobecné" parent-control="", Markíza HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=120
+#EXTINF:-1, tvg-id="33-joj" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245233/categories/img/sizes/64x64/canvas/64x64/38245233.png" group-title="Všeobecné" parent-control="", JOJ HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=130
+#EXTINF:-1, tvg-id="1023-joj-cinema" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/jojcinema.png" group-title="Filmy a seriály" parent-control="", JOJ Cinema
+plugin://plugin.video.freeview.sk?provider=joj&channel=jojcinema
+#EXTINF:-1, tvg-id="683-tv-dajto" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/277306507/categories/img/sizes/64x64/canvas/64x64/277306507.png" group-title="Filmy a seriály" parent-control="", Dajto HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=180
+#EXTINF:-1, tvg-id="15568-markiza-klasik" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/473738527/categories/img/sizes/64x64/canvas/64x64/473738527.png" group-title="Filmy a seriály" parent-control="", Markíza Klasik HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=312
+#EXTINF:-1, tvg-id="15476-canal+-action" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/476053835/categories/img/sizes/64x64/canvas/64x64/476053835.png" group-title="Športové" parent-control="", Canal+ Action
+https://youroshik.4fan.cz/Xb/php/github/stream01.php?chno=472
+#EXTINF:-1, tvg-id="206-joj-plus" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245112/categories/img/sizes/64x64/canvas/64x64/38245112.png" group-title="Filmy a seriály" parent-control="", JOJ Plus HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=190
+#EXTINF:-1, tvg-id="15402-markiza-krimi" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/252932175/categories/img/sizes/64x64/canvas/64x64/252932175.png" group-title="Filmy a seriály" parent-control="", Markíza Krimi
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=196
+#EXTINF:-1, tvg-id="1141-joj-family" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/joj-family-1.jpg" group-title="Filmy a seriály" parent-control="", JOJ Family
+plugin://plugin.video.freeview.sk?provider=joj&channel=family
+#EXTINF:-1, tvg-id="718-wau" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/267886168/categories/img/sizes/38x38/canvas/38x38/267886168.png" group-title="Filmy a seriály" parent-control="", WAU HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=170
+#EXTINF:-1, tvg-id="225-doma" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/277306077/categories/img/sizes/38x38/canvas/38x38/277306077.png" group-title="Filmy a seriály" parent-control="", Doma HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=160
+#EXTINF:-1, tvg-id="42-ta3" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/12144837/categories/img/sizes/64x64/canvas/64x64/12144837.jpg" group-title="Spravodajstvo" parent-control="", TA3 HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=195
+#EXTINF:-1, tvg-id="15441-joj-24" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/292790510/categories/img/sizes/64x64/canvas/64x64/292790510.png" group-title="Spravodajstvo" parent-control="", JOJ 24 HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=201
+#EXTINF:-1, tvg-id="1338-cnn-prima-news" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/266275794/categories/img/sizes/38x38/canvas/38x38/266275794.png" group-title="Spravodajstvo" parent-control="", CNN Prima News HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=200
+#EXTINF:-1, tvg-id="2-ct1" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/20131014/categories/img/sizes/64x64/canvas/64x64/20131014.png" group-title="Všeobecné" parent-control="", ČT 1 HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=208
+#EXTINF:-1, tvg-id="3-ct2" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/20131041/categories/img/sizes/64x64/canvas/64x64/20131041.png" group-title="Všeobecné" parent-control="", ČT 2 HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=210
+#EXTINF:-1, tvg-id="65-ct24" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776563/categories/img/sizes/64x64/canvas/64x64/19776563.jpg" group-title="Spravodajstvo" parent-control="", ČT 24 HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=240
+#EXTINF:-1, tvg-id="805-ct-:d" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/20144146/categories/img/sizes/64x64/canvas/64x64/20144146.png" group-title="Pre deti" parent-control="", ČT :D HD / ČT art HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=932
+#EXTINF:-1, tvg-id="1125-nova-international" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245248/categories/img/sizes/64x64/canvas/64x64/38245248.png" group-title="Filmy a seriály" parent-control="", Nova International
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=310
+#EXTINF:-1, tvg-id="132-nova-cinema" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/novacinema.png" group-title="" parent-control="", Nova Cinema
+plugin://plugin.video.freeview.sk?provider=nova&channel=novacinema
+#EXTINF:-1, tvg-id="15290-nova-lady" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/novalady.png" group-title="" parent-control="", Nova Lady
+plugin://plugin.video.freeview.sk?provider=nova&channel=novalady
+#EXTINF:-1, tvg-id="4-prima" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/prima.png" group-title="" parent-control="", Prima
+plugin://plugin.video.freeview.sk?provider=prima&channel=prima
+#EXTINF:-1, tvg-id="220-prima-cool" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776564/categories/img/sizes/64x64/canvas/64x64/19776564.jpg" group-title="Filmy a seriály" parent-control="", Prima COOL HD
+https://youroshik.4fan.cz/Xb/php/github/stream01.php?chno=933
+#EXTINF:-1, tvg-id="15562-prima-cool-sk" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/463626560/categories/img/sizes/64x64/canvas/64x64/463626560.png" group-title="Filmy a seriály" parent-control="", Prima COOL SK HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=290
+#EXTINF:-1, tvg-id="1122-prima-max" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776566/categories/img/sizes/64x64/canvas/64x64/19776566.jpg" group-title="Filmy a seriály" parent-control="", Prima MAX HD
+https://youroshik.4fan.cz/Xb/php/github/stream01.php?chno=935
+#EXTINF:-1, tvg-id="1196-prima-krimi" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19804127/categories/img/sizes/64x64/canvas/64x64/19804127.png" group-title="Filmy a seriály" parent-control="", Prima Krimi HD
+https://youroshik.4fan.cz/Xb/php/github/stream01.php?chno=936
+#EXTINF:-1, tvg-id="496-prima-love" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776567/categories/img/sizes/64x64/canvas/64x64/19776567.jpg" group-title="Filmy a seriály" parent-control="", Prima Love HD
+https://youroshik.4fan.cz/Xb/php/github/stream01.php?chno=937
+#EXTINF:-1, tvg-id="1162-prima-sk" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/464762173/categories/img/sizes/64x64/canvas/64x64/464762173.png" group-title="Filmy a seriály" parent-control="", Prima SK HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=300
+#EXTINF:-1, tvg-id="1149-cs-film" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/csfilm.png" group-title="Filmy a seriály" parent-control="", CS Film
+plugin://plugin.video.freeview.sk/?provider=joj&channel=csfilm
+#EXTINF:-1, tvg-id="1187-cs-history" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/cshistory.png" group-title="Filmy a seriály" parent-control="", CS History
+plugin://plugin.video.freeview.sk/?provider=joj&channel=cshistory
+#EXTINF:-1, tvg-id="717-cs-mystery" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/csmystery.png" group-title="Filmy a seriály" parent-control="", CS Mystery
+plugin://plugin.video.freeview.sk/?provider=joj&channel=csmystery
+#EXTINF:-1, tvg-id="1513-prima-star" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/primastar.png" group-title="Filmy a seriály" parent-control="", Prima Star
+plugin://plugin.video.freeview.sk/?provider=prima&channel=star
+#EXTINF:-1, tvg-id="15292-prima-show" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/primashow.png" group-title="Filmy a seriály" parent-control="", Prima Show
+plugin://plugin.video.freeview.sk/?provider=prima&channel=show
+#EXTINF:-1, tvg-id="708-prima-zoom" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776565/categories/img/sizes/64x64/canvas/64x64/19776565.jpg" group-title="Dokumentárne" parent-control="", Prima ZOOM HD
+https://youroshik.4fan.cz/Xb/php/github/stream01.php?chno=934
+#EXTINF:-1, tvg-id="15509-joj-svet" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/412545404/categories/img/sizes/38x38/canvas/38x38/412545404.png" group-title="Dokumentárne" parent-control="", JOJ Svet HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=197
+#EXTINF:-1, tvg-id="15322-hgtv" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/190867039/categories/img/sizes/64x64/canvas/64x64/190867039.png" group-title="Hobby" parent-control="", Home and Garden
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=330
+#EXTINF:-1, tvg-id="15508-tv-doktor" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/406843623/categories/img/sizes/38x38/canvas/38x38/406843623.png" group-title="Hobby" parent-control="", TV Doktor HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=204
+#EXTINF:-1, tvg-id="15-discovery" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/192618541/categories/img/sizes/64x64/canvas/64x64/192618541.png" group-title="Dokumentárne" parent-control="", Discovery Channel
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=320
+#EXTINF:-1, tvg-id="15482-spark-tv" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/377499500/categories/img/sizes/38x38/canvas/38x38/377499500.png" group-title="Dokumentárne" parent-control="", TV Spark HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=198
+#EXTINF:-1, tvg-id="549-tlc" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/192618527/categories/img/sizes/64x64/canvas/64x64/192618527.png" group-title="Dokumentárne" parent-control="", TLC
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=340
+#EXTINF:-1, tvg-id="82-amc" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776580/categories/img/sizes/64x64/canvas/64x64/19776580.png" group-title="Filmy a seriály" parent-control="", AMC HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=410
+#EXTINF:-1, tvg-id="72-filmbox" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245203/categories/img/sizes/64x64/canvas/64x64/38245203.png" group-title="Filmy a seriály" parent-control="", FilmBox
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=420
+#EXTINF:-1, tvg-id="215-barrandov" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245250/categories/img/sizes/64x64/canvas/64x64/38245250.png" group-title="Všeobecné" parent-control="", TV Barrandov HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=350
+#EXTINF:-1, tvg-id="1018-kino-barrandov" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776574/categories/img/sizes/64x64/canvas/64x64/19776574.jpg" group-title="Filmy a seriály" parent-control="", Kino Barrandov HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=360
+#EXTINF:-1, tvg-id="1020-barrandov-krimi" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/20496187/categories/img/sizes/64x64/canvas/64x64/20496187.png" group-title="Filmy a seriály" parent-control="", Barrandov Krimi HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=370
+#EXTINF:-1, tvg-id="1512-rtvs-sport" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/178572683/categories/img/sizes/64x64/canvas/64x64/178572683.png" group-title="Športové" parent-control="", RTVS Šport
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=140
+#EXTINF:-1, tvg-id="73-ct4-sport" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/19804128/categories/img/sizes/38x38/canvas/38x38/19804128.png" group-title="Športové" parent-control="", ČT Sport HD
+https://youroshik.4fan.cz/Xb/php/github/stream01.php?chno=931
+#EXTINF:-1, tvg-id="15291-joj-sport" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/177387135/categories/img/sizes/64x64/canvas/64x64/177387135.png" group-title="Športové" parent-control="", JOJ Šport
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=199
+#EXTINF:-1, tvg-id="15611-joj-sport-2" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/510293251/categories/img/sizes/64x64/canvas/64x64/510293251.png" group-title="Športové" parent-control="", JOJ Šport 2
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=250
+#EXTINF:-1, tvg-id="9-eurosport-1" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245237/categories/img/sizes/64x64/canvas/64x64/38245237.png" group-title="Športové" parent-control="", Eurosport HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=480
+#EXTINF:-1, tvg-id="59-eurosport-2" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245242/categories/img/sizes/64x64/canvas/64x64/38245242.png" group-title="Športové" parent-control="", Eurosport 2 HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=490
+#EXTINF:-1, tvg-id="687-arena-sport-1" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/305537845/categories/img/sizes/64x64/canvas/64x64/305537845.png" group-title="Športové" parent-control="", Arena Sport 1 HD
+https://youroshik.4fan.cz/Xb/php/github/stream01.php?chno=500
+#EXTINF:-1, tvg-id="800-arena-sport-2" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/305537851/categories/img/sizes/64x64/canvas/64x64/305537851.png" group-title="Športové" parent-control="", Arena Sport 2
+https://youroshik.4fan.cz/Xb/php/github/stream01.php?chno=510
+#EXTINF:-1, tvg-id="205-nova-sport-1" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776589/categories/img/sizes/64x64/canvas/64x64/19776589.jpg" group-title="Športové" parent-control="", Nova Sport 1 HD
+https://youroshik.4fan.cz/Xb/php/github/stream01.php?chno=520
+#EXTINF:-1, tvg-id="1038-nova-sport-2" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776590/categories/img/sizes/64x64/canvas/64x64/19776590.jpg" group-title="Športové" parent-control="", Nova Sport 2 HD
+https://youroshik.4fan.cz/Xb/php/github/stream01.php?chno=530
+#EXTINF:-1, tvg-id="15412-canal+-sport" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/476053837/categories/img/sizes/64x64/canvas/64x64/476053837.png" group-title="Športové" parent-control="", Canal+ Sport 1
+https://youroshik.4fan.cz/Xb/php/github/stream01.php?chno=610
+#EXTINF:-1, tvg-id="15537-canal+-sport-2" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/476778082/categories/img/sizes/64x64/canvas/64x64/476778082.png" group-title="Športové" parent-control="", Canal+ Sport 2
+https://youroshik.4fan.cz/Xb/php/github/stream01.php?chno=611
+#EXTINF:-1, tvg-id="75-sport1" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/95250319/categories/img/sizes/64x64/canvas/64x64/95250319.png" group-title="Športové" parent-control="", Sport 1 HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=540
+#EXTINF:-1, tvg-id="221-sport2" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/95250323/categories/img/sizes/64x64/canvas/64x64/95250323.png" group-title="Športové" parent-control="", Sport 2 HD
+https://youroshik.4fan.cz/Xb/php/github/stream01.php?chno=550
+#EXTINF:-1, tvg-id="51-extreme-sports" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776593/categories/img/sizes/64x64/canvas/64x64/19776593.jpg" group-title="Športové" parent-control="", Extreme Sports Channel
+https://youroshik.4fan.cz/Xb/php/github/stream01.php?chno=570
+#EXTINF:-1, tvg-id="127-golf-channel" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245209/categories/img/sizes/64x64/canvas/64x64/38245209.png" group-title="Športové" parent-control="", Golf Channel HD
+https://youroshik.4fan.cz/Xb/php/github/stream01.php?chno=560
+#EXTINF:-1, tvg-id="1472-body-in-balance-(sk)" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245181/categories/img/sizes/64x64/canvas/64x64/38245181.png" group-title="Hobby" parent-control="", Body in Balance
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=590
+#EXTINF:-1, tvg-id="53-ocko" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/20401983/categories/img/sizes/64x64/canvas/64x64/20401983.png" group-title="Hudobné" parent-control="", Óčko HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=751
+#EXTINF:-1, tvg-id="831-ocko-expres" tvg-logo="https://raw.githubusercontent.com/ju-ro/MyProd/refs/heads/main/files/utils/dgl/a/web/pics/tvlogos/ocko-expres.png" group-title="Hudobné" parent-control="", Óčko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
+#EXTINF:-1, tvg-id="228-disney-channel" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245191/categories/img/sizes/64x64/canvas/64x64/38245191.png" group-title="Pre deti" parent-control="", Disney Channel
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=757
+#EXTINF:-1, tvg-id="1245-lala-tv" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/20624005/categories/img/sizes/64x64/canvas/64x64/20624005.png" group-title="Pre deti" parent-control="", LALA TV HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=630
+#EXTINF:-1, tvg-id="57-minimax" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776596/categories/img/sizes/64x64/canvas/64x64/19776596.png" group-title="Pre deti" parent-control="", Minimax
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=640
+#EXTINF:-1, tvg-id="999-jojko" tvg-logo="http://sms.cz/kategorie/televize/bmp/loga/velka/jojko.png" group-titles="Pre deti" parent-control="", Jojko
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=715
+#EXTINF:-1, tvg-id="1408-rik-tv" tvg-logo="http://sms.cz/kategorie/televize/bmp/loga/velka/rik.png" group-titles="Pre deti" parent-control="", Rik
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=716
+#EXTINF:-1, tvg-id="15440-turbo-tv" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/292750824/categories/img/sizes/64x64/canvas/64x64/292750824.png" group-titles="Pre deti" parent-control="", Turbo TV
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=720
+#EXTINF:-1, tvg-id="62-paprika" tvg-logo="http://sms.cz/kategorie/televize/bmp/loga/velka/paprika.png" group-title="Hobby" parent-control="", TV Paprika
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=772
+#EXTINF:-1, tvg-id="684-slagr-muzika" tvg-logo="http://sms.cz/kategorie/televize/bmp/loga/velka/slagermuzika.png" group-title="Hudobné" parent-control="", Šlágr Muzika
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=390
+#EXTINF:-1, tvg-id="833-senzi" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776576/categories/img/sizes/64x64/canvas/64x64/19776576.png" group-title="Hudobné" parent-control="", Senzi TV HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=380
+#EXTINF:-1, tvg-id="1309-folklorika" tvg-logo="http://sms.cz/kategorie/televize/bmp/loga/velka/folklorika.png" group-title="Hudobné" parent-control="", Folklorika HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=403
+#EXTINF:-1, tvg-id="191-lux" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776579/categories/img/sizes/64x64/canvas/64x64/19776579.jpg" group-title="Náboženské" parent-control="", Lux TV HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=400
+#EXTINF:-1, tvg-id="1241-leo-tv-gold" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776609/categories/img/sizes/64x64/canvas/64x64/19776609.png" group-title="Erotické" parent-control="1234", LeoTV HD / Extasy HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=950
+#EXTINF:-1, tvg-id="19-orf1" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/109756176/categories/img/sizes/64x59/canvas/64x59/109756176.png" group-title="Zahraničné" parent-control="", ORF 1
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=866
+#EXTINF:-1, tvg-id="20-orf2" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/109756182/categories/img/sizes/64x64/canvas/64x64/109756182.png" group-title="Zahraničné" parent-control="", ORF 2
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=867
+#EXTINF:-1, tvg-id="26-zdf" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776611/categories/img/sizes/64x64/canvas/64x64/19776611.jpg" group-title="Zahraničné" parent-control="", ZDF
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=861
+#EXTINF:-1, tvg-id="190-bbc-world-news" tvg-logo="https://raw.githubusercontent.com/ju-ro/MyProd/refs/heads/main/files/utils/dgl/a/web/pics/tvlogos/bbc.jpg" group-title="Zahraničné" parent-control="", BBC News International 
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=876
+#EXTINF:-1, tvg-id="16-3sat" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/12154014/categories/img/sizes/64x64/canvas/64x64/12154014.png" group-title="Zahraničné" parent-control="", 3SAT
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=860
+#EXTINF:-1, tvg-id="17-das-erste" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/19408316/categories/img/sizes/64x64/canvas/64x64/19408316.png" group-title="Zahraničné" parent-control="", Das Erste HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=862
+#EXTINF:-1, tvg-id="81-arte" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/12144944/categories/img/sizes/64x64/canvas/64x64/12144944.jpg" group-title="Zahraničné" parent-control="", Arte HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=863
+#EXTINF:-1, tvg-id="144-france24" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/12144949/categories/img/sizes/64x64/canvas/64x64/12144949.jpg" group-title="Zahraničné" parent-control="", France 24 AJ HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=880
+#EXTINF:-1, tvg-id="145-france24-en" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/19776612/categories/img/sizes/64x64/canvas/64x64/19776612.jpg" group-title="Zahraničné" parent-control="", France 24 FR
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=881
+#EXTINF:-1, tvg-id="558-rai-tre" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/197963216/categories/img/sizes/64x64/canvas/64x64/197963216.png" group-title="Zahraničné" parent-control="", RAI 3 HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=890
+#EXTINF:-1, tvg-id="244-canal-24-horas" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/197963224/categories/img/sizes/64x64/canvas/64x64/197963224.png" group-title="Zahraničné" parent-control="", Canal 24 Horas HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=892
+#EXTINF:-1, tvg-id="156-rai-uno" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/12145118/categories/img/sizes/64x64/canvas/64x64/12145118.jpg" group-title="Zahraničné" parent-control="", RAI 1 HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=897
+#EXTINF:-1, tvg-id="119-tve" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/38245227/categories/img/sizes/64x64/canvas/64x64/38245227.png" group-title="Zahraničné" parent-control="", TVE Espana HD
+https://youroshik.4fan.cz/Xb/php/github/stream.php?chno=898
