@@ -1,8 +1,6 @@
 #EXTM3U
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="10-jednotka" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245146/categories/img/sizes/64x64/canvas/64x64/38245146.png" group-title="Všeobecné" parent-control="", Jednotka HD
+#EXTINF:-1
 https://youroshik.4fan.cz/Xb/php/github/magio.php?tvgid=tm-4099-jednotka
 
 #KODIPROP:inputstream=inputstream.adaptive
