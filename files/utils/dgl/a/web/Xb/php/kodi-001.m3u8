@@ -9,6 +9,8 @@ https://youroshik.4fan.cz/Xb/php/github/stream002.php?chno=150
 https://youroshik.4fan.cz/Xb/php/github/stream002.php?chno=120
 #EXTINF:-1, tvg-id="33-joj" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245233/categories/img/sizes/64x64/canvas/64x64/38245233.png" group-title="Všeobecné" parent-control="", JOJ HD
 https://youroshik.4fan.cz/Xb/php/github/stream002.php?chno=130
+#EXTINF:-1, tvg-id="1023-joj-cinema" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/jojcinema.png" group-title="Filmy a seriály" parent-control="", JOJ Cinema
+plugin://plugin.video.freeview.sk?provider=joj&channel=jojcinema
 #EXTINF:-1, tvg-id="683-tv-dajto" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/277306507/categories/img/sizes/64x64/canvas/64x64/277306507.png" group-title="Filmy a seriály" parent-control="", Dajto HD
 https://youroshik.4fan.cz/Xb/php/github/stream002.php?chno=180
 #EXTINF:-1, tvg-id="15568-markiza-klasik" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/473738527/categories/img/sizes/64x64/canvas/64x64/473738527.png" group-title="Filmy a seriály" parent-control="", Markíza Klasik HD
@@ -19,6 +21,8 @@ https://youroshik.4fan.cz/Xb/php/github/stream001.php?chno=472
 https://youroshik.4fan.cz/Xb/php/github/stream002.php?chno=190
 #EXTINF:-1, tvg-id="15402-markiza-krimi" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/252932175/categories/img/sizes/64x64/canvas/64x64/252932175.png" group-title="Filmy a seriály" parent-control="", Markíza Krimi
 https://youroshik.4fan.cz/Xb/php/github/stream002.php?chno=196
+#EXTINF:-1, tvg-id="1141-joj-family" tvg-logo="http://jurooo.wz.cz/pics/tvlogos/joj-family-1.jpg" group-title="Filmy a seriály" parent-control="", JOJ Family
+plugin://plugin.video.freeview.sk?provider=joj&channel=family
 #EXTINF:-1, tvg-id="718-wau" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/267886168/categories/img/sizes/38x38/canvas/38x38/267886168.png" group-title="Filmy a seriály" parent-control="", WAU HD
 https://youroshik.4fan.cz/Xb/php/github/stream002.php?chno=170
 #EXTINF:-1, tvg-id="225-doma" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/277306077/categories/img/sizes/38x38/canvas/38x38/277306077.png" group-title="Filmy a seriály" parent-control="", Doma HD
@@ -39,6 +43,12 @@ https://youroshik.4fan.cz/Xb/php/github/stream002.php?chno=240
 https://youroshik.4fan.cz/Xb/php/github/stream002.php?chno=932
 #EXTINF:-1, tvg-id="1125-nova-international" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/38245248/categories/img/sizes/64x64/canvas/64x64/38245248.png" group-title="Filmy a seriály" parent-control="", Nova International
 https://youroshik.4fan.cz/Xb/php/github/stream002.php?chno=310
+#EXTINF:-1, tvg-id="132-nova-cinema" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/novacinema.png" group-title="" parent-control="", Nova Cinema
+plugin://plugin.video.freeview.sk?provider=nova&channel=novacinema
+#EXTINF:-1, tvg-id="15290-nova-lady" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/novalady.png" group-title="" parent-control="", Nova Lady
+plugin://plugin.video.freeview.sk?provider=nova&channel=novalady
+#EXTINF:-1, tvg-id="4-prima" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/prima.png" group-title="" parent-control="", Prima
+plugin://plugin.video.freeview.sk?provider=prima&channel=prima
 #EXTINF:-1, tvg-id="220-prima-cool" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776564/categories/img/sizes/64x64/canvas/64x64/19776564.jpg" group-title="Filmy a seriály" parent-control="", Prima COOL HD
 https://youroshik.4fan.cz/Xb/php/github/stream001.php?chno=933
 #EXTINF:-1, tvg-id="15562-prima-cool-sk" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/463626560/categories/img/sizes/64x64/canvas/64x64/463626560.png" group-title="Filmy a seriály" parent-control="", Prima COOL SK HD
@@ -51,6 +61,16 @@ https://youroshik.4fan.cz/Xb/php/github/stream001.php?chno=936
 https://youroshik.4fan.cz/Xb/php/github/stream001.php?chno=937
 #EXTINF:-1, tvg-id="1162-prima-sk" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/464762173/categories/img/sizes/64x64/canvas/64x64/464762173.png" group-title="Filmy a seriály" parent-control="", Prima SK HD
 https://youroshik.4fan.cz/Xb/php/github/stream002.php?chno=300
+#EXTINF:-1, tvg-id="1149-cs-film" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/csfilm.png" group-title="Filmy a seriály" parent-control="", CS Film
+plugin://plugin.video.freeview.sk/?provider=joj&channel=csfilm
+#EXTINF:-1, tvg-id="1187-cs-history" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/cshistory.png" group-title="Filmy a seriály" parent-control="", CS History
+plugin://plugin.video.freeview.sk/?provider=joj&channel=cshistory
+#EXTINF:-1, tvg-id="717-cs-mystery" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/csmystery.png" group-title="Filmy a seriály" parent-control="", CS Mystery
+plugin://plugin.video.freeview.sk/?provider=joj&channel=csmystery
+#EXTINF:-1, tvg-id="1513-prima-star" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/primastar.png" group-title="Filmy a seriály" parent-control="", Prima Star
+plugin://plugin.video.freeview.sk/?provider=prima&channel=star
+#EXTINF:-1, tvg-id="15292-prima-show" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/primashow.png" group-title="Filmy a seriály" parent-control="", Prima Show
+plugin://plugin.video.freeview.sk/?provider=prima&channel=show
 #EXTINF:-1, tvg-id="708-prima-zoom" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776565/categories/img/sizes/64x64/canvas/64x64/19776565.jpg" group-title="Dokumentárne" parent-control="", Prima ZOOM HD
 https://youroshik.4fan.cz/Xb/php/github/stream001.php?chno=934
 #EXTINF:-1, tvg-id="15509-joj-svet" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/412545404/categories/img/sizes/38x38/canvas/38x38/412545404.png" group-title="Dokumentárne" parent-control="", JOJ Svet HD
