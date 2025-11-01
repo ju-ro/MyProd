@@ -111,6 +111,10 @@ https://youroshik.4fan.cz/Xb/php/github/stream002.php?chno=490
 https://youroshik.4fan.cz/Xb/php/github/stream001.php?chno=500
 #EXTINF:-1, tvg-id="800-arena-sport-2" tvg-logo="https://cnt01.gtm.orange.sk/contentserver/contents/305537851/categories/img/sizes/64x64/canvas/64x64/305537851.png" group-title="Športové" parent-control="", Arena Sport 2
 https://youroshik.4fan.cz/Xb/php/github/stream001.php?chno=510
+#EXTINF:-1, tvg-id="205-nova-sport-1" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/novasport1.png" group-title="Športové" parent-control="", Nova Sport 1 (freeview)
+plugin://plugin.video.freeview.sk/?provider=nova&channel=novasport1
+#EXTINF:-1, tvg-id="1038-nova-sport-2" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/novasport2.png" group-title="Športové" parent-control="", Nova Sport 2 (freeview)
+plugin://plugin.video.freeview.sk/?provider=nova&channel=novasport2
 #EXTINF:-1, tvg-id="205-nova-sport-1" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776589/categories/img/sizes/64x64/canvas/64x64/19776589.jpg" group-title="Športové" parent-control="", Nova Sport 1 HD
 https://youroshik.4fan.cz/Xb/php/github/stream001.php?chno=520
 #EXTINF:-1, tvg-id="1038-nova-sport-2" tvg-logo="http://app01.gtm.orange.sk/contentserver/contents/19776590/categories/img/sizes/64x64/canvas/64x64/19776590.jpg" group-title="Športové" parent-control="", Nova Sport 2 HD
